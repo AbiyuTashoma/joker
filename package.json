@@ -1,0 +1,28 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "description": "example",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbiyuTashoma/joker.git"
+  },
+  "keywords": [
+    "jokes",
+    "front-end",
+    "website"
+  ],
+  "author": "ABT abiyu.baqala.tashoma@autostoresystem.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbiyuTashoma/joker/issues"
+  },
+  "homepage": "https://github.com/AbiyuTashoma/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
+}
